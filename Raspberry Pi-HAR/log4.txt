@@ -1,0 +1,161 @@
+Model Name: CNN_CE_wisdm_model.pt
+Dataset name: WISDM
+Run Time: 0.142118
+Single Data Point Run Time: 3.64
+Average Memory Usage: 788.73
+Number of parameters: 417287
+
+Model Name: ELK_wisdm_model.pt
+Dataset name: WISDM
+Run Time: 0.191269
+Single Data Point Run Time: 3.32
+Average Memory Usage: 782.70
+Number of parameters: 240582
+
+Model Name: Dan_wisdm_model.pt
+Dataset name: WISDM
+Run Time: 0.465875
+Single Data Point Run Time: 12.03
+Average Memory Usage: 790.66
+Number of parameters: 2346796
+
+Model Name: ELK_uci_model.pt
+Dataset name: UCI
+Run Time: 0.831193
+Single Data Point Run Time: 11.06
+Average Memory Usage: 753.88
+Number of parameters: 249798
+
+Model Name: Dan_uci_model.pt
+Dataset name: UCI
+Run Time: 2.243912
+Single Data Point Run Time: 29.86
+Average Memory Usage: 785.06
+Number of parameters: 2547244
+
+Model Name: CNN_CE_uci_model.pt
+Dataset name: UCI
+Run Time: 0.405151
+Single Data Point Run Time: 4.70
+Average Memory Usage: 829.11
+Number of parameters: 431111
+
+Model Name: ELK_oppo_model.pt
+Dataset name: OPPO
+Run Time: 2.687072
+Single Data Point Run Time: 28.22
+Average Memory Usage: 770.75
+Number of parameters: 756690
+
+Model Name: Dan_oppo_model.pt
+Dataset name: OPPO
+Run Time: 7.773648
+Single Data Point Run Time: 72.87
+Average Memory Usage: 803.44
+Number of parameters: 4461879
+
+Model Name: CNN_CE_oppo_model.pt
+Dataset name: OPPO
+Run Time: 1.754259
+Single Data Point Run Time: 26.65
+Average Memory Usage: 816.86
+Number of parameters: 3490963
+
+Model Name: CNN_CE_pamap2_model.pt
+Dataset name: PAMAP2
+Run Time: 3.661804
+Single Data Point Run Time: 27.65
+Average Memory Usage: 813.16
+Number of parameters: 1646605
+
+Model Name: ELK_pamap2_model.pt
+Dataset name: PAMAP2
+Run Time: 3.389326
+Single Data Point Run Time: 25.27
+Average Memory Usage: 814.16
+Number of parameters: 1646605
+
+Model Name: Dan_pamap2_model.pt
+Dataset name: PAMAP2
+Run Time: 14.841369
+Single Data Point Run Time: 121.08
+Average Memory Usage: 814.09
+Number of parameters: 5118514
+
+Model Name: CNN_CE_pamap2_model.pt
+Dataset name: PAMAP2
+Run Time: 3.276336
+Single Data Point Run Time: 26.34
+Average Memory Usage: 779.84
+Number of parameters: 1646605
+
+Model Name: ELK_pamap2_model.pt
+Dataset name: PAMAP2
+Run Time: 5.264800
+Single Data Point Run Time: 48.31
+Average Memory Usage: 751.84
+Number of parameters: 346572
+
+Model Name: Dan_pamap2_model.pt
+Dataset name: PAMAP2
+Run Time: 13.989606
+Single Data Point Run Time: 121.20
+Average Memory Usage: 778.34
+Number of parameters: 5118514
+
+Model Name: ELK_oppo_model.pt
+Dataset name: OPPO
+Run Time: 2.614215
+Single Data Point Run Time: 26.08
+Average Memory Usage: 786.77
+Number of parameters: 756690
+
+Model Name: Dan_oppo_model.pt
+Dataset name: OPPO
+Run Time: 7.654368
+Single Data Point Run Time: 71.92
+Average Memory Usage: 812.73
+Number of parameters: 4461879
+
+Model Name: CNN_CE_oppo_model.pt
+Dataset name: OPPO
+Run Time: 1.761488
+Single Data Point Run Time: 27.72
+Average Memory Usage: 794.06
+Number of parameters: 3490963
+
+Model Name: ELK_oppo_model.pt
+Dataset name: OPPO
+Run Time: 2.630259
+Single Data Point Run Time: 26.90
+Average Memory Usage: 802.55
+Number of parameters: 756690
+
+Model Name: Dan_oppo_model.pt
+Dataset name: OPPO
+Run Time: 7.378004
+Single Data Point Run Time: 72.04
+Average Memory Usage: 837.69
+Number of parameters: 4461879
+
+Model Name: CNN_CE_oppo_model.pt
+Dataset name: OPPO
+Run Time: 1.849154
+Single Data Point Run Time: 34.25
+Average Memory Usage: 824.84
+Number of parameters: 3490963
+
+Model Name: ELK_oppo_model.pt
+Dataset name: OPPO
+Run Time: 2.614918
+Single Data Point Run Time: 27.79
+Average Memory Usage: 797.39
+Number of parameters: 756690
+
+Model Name: Dan_oppo_model.pt
+Dataset name: OPPO
+Run Time: 8.621733
+Single Data Point Run Time: 199.11
+Average Memory Usage: 816.69
+Number of parameters: 4461879
+
